@@ -4,9 +4,8 @@
 - [Continuous Security Auditing](#continuous-security-auditing)
 - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
 - [Development Security](#development-security)
-- [S3 Buckets Auditing](#s3-buckets-auditing)
-- [Training](#training)
-- [Other interesting tools/code](#other-interesting-toolscode)
+- [Hardenend Images](#hardened-images)
+- [File Integrity Monitoring](#file-integrity-monitoring)
 
 ## Defensive: Hardening, Security Assessment and Inventory
 | Name | Description | Popularity | Metadata |
